@@ -1,0 +1,14 @@
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Oo]bj/
+/[Pp]ackages/
+/[Tt]emp/
+/[Uu]ser[Ss]ettings/
+
+.DS_Store
+.vs
+.vscode
+.idea
+
+*.csproj
+*.sln
